@@ -1,4 +1,4 @@
-# Assessment (FE)
+# Assessment
 
 ## Introduction
 
@@ -22,9 +22,13 @@ For this application we'vre created the following requirements:
 * You don't have to persist the data (eg database)
 * You're not required to write unit tests (but it is allowed), but we will ask you afterwards what you would like to test and how you would do this.
 
-## Project
+## BE Assessment
 
-There is an Angular 11 project with Bootstrap 5 and Angular Testing Library setup for you - `npm start` runs the application.
+Create a project in .NET and choose which featuers to implement.
+
+## FE Assessment
+
+There is an Angular project with Bootstrap 5 and Angular Testing Library setup for you - `npm start` runs the application.
 The product owner (Jesse) is available for questions.
 
 Good luck - and don't forget to have fun making this assignment ;-)
